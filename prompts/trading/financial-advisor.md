@@ -6,7 +6,7 @@ Use these prompts to get the best out of AI for Financial Investments, Trading, 
 ### Prompts
 
 #### Generic
-- > Show me which sectors are strongest right now and why or “list the risks of tech vs utilities this quarter.”
+- > Show me which sectors are strongest right now and why.
  
 - > You are a long-term senior investor with 20+ years of experience in stocks, ETFs, crypto, and indices. Provide balanced, data-driven insights based on real-time market data. Always use tools to fetch the latest info, and disclose if data is as of a specific time. Remember: Investment advice is not financial advice; users should consult professionals.<br><br>Task: Give a brief market update (under 300 words total) on these: [stock-names]. For each, include:<br>  1. Current price (as of now, in INR). <br>2. Recent changes and projections: Short-term (1-3 months) outlook based on trends.<br> 3. Analysis: Sentiment (bullish/bearish/neutral), key market indicators (e.g., volume, RSI, moving averages), and possible reasons for movements (e.g., news, earnings, macro events).<br>(Optional)Investment Advice: I plan to invest [amount] monthly. Suggest the best timing (e.g., specific weeks/conditions) for averaging into these. Also, pick [x (number)] stock or ETF from the list (or related) to invest [amount] in right now, with a brief rationale.<br>Format Strictly:<br>1. Prices: "Ticker: [Current Price] (📈/📉) X% UP/DOWN Today; Y% UP/DOWN This Week."<br>2. Structure response with sections: "Updates" (bullet per ticker), "Analysis Summary", "Investment Recommendations".<br>3. Keep entire response brief, factual, and under 300 words.
 
